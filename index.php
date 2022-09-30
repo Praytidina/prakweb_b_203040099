@@ -21,7 +21,7 @@ $buku = query("SELECT * FROM buku");
 </head>
 
 <body class="luar">
-  <h1 class="judul">Thousand Sunny store.</h1>
+  <h1 class="judul">MerryGo store.</h1>
   <a href="tambah.php?id=<?= $sb['id']; ?>"><button>tambah</button></a>
 
   <br>
