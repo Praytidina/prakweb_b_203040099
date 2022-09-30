@@ -1,4 +1,9 @@
+
 .cover {
     width : 170px;
     height: 281px;
+}
+.luar{
+	background-color: rgba(0, 0, 255, 0.27);
+	color: rgb(6, 49, 80);
 }
