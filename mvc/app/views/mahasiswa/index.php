@@ -8,9 +8,12 @@
                     align-items-center list-group-item list-group-item-action list-group-item-primary">
                         <?= $mhs['nama']; ?>
                         <a href="<?= BASEURL ?>/mahasiswa/detail/<?= $mhs['id']; ?>" class="badge bg-info text-white">Detail</a>
+                        
                     </li>
+                    
                 <?php endforeach; ?>
             </ul>
+            <a class="btn btn-info btn-lg" href="<?= BASEURL ?>/home" role="button">Home</a>
         </div>
     </div>
 </div>
