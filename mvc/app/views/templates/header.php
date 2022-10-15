@@ -23,6 +23,7 @@
                     <a class="nav-link active text-white" aria-current="page" href="<?= BASEURL; ?>/home">Home</a>
                     <a class="nav-link text-white" href="<?= BASEURL; ?>/mahasiswa">Mahasiswa</a>
                     <a class="nav-link text-white" href="<?= BASEURL; ?>/about">About</a>
+                    <a class="nav-link text-white" href="<?= BASEURL; ?>/portfolio">Portfolio</a>
                 </div>
             </div>
         </div>
